@@ -1,0 +1,17 @@
+{
+	"@type":"Cube",
+	"Name":"TEst2",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('plan_lines')"
+		},
+		{
+			"@id":"Dimensions('plan_measure_setting')"
+		},
+		{
+			"@id":"Dimensions('plan_format_template')"
+		}
+	],
+	"Views@Code.links":[]
+}

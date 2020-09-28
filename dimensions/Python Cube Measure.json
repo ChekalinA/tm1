@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"Python Cube Measure",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Python Cube Measure')/Hierarchies('Python Cube Measure')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"Python Cube Measure.hierarchies/Python Cube Measure.json"
+	]
+}
