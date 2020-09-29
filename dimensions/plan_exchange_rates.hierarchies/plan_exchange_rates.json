@@ -26,6 +26,10 @@
 		{
 			"Name":"actual",
 			"Type":"Numeric"
+		},
+		{
+			"Name":"77",
+			"Type":"Numeric"
 		}
 	],
 	"Subsets@Code.links":

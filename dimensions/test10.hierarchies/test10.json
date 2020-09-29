@@ -1,0 +1,20 @@
+{
+	"@type":"Hierarchy",
+	"Name":"test10",
+	"Elements":
+	[
+		{
+			"Name":"test6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"test7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"test8",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}

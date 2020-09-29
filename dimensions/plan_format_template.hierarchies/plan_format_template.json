@@ -58,6 +58,10 @@
 		{
 			"Name":"5",
 			"Type":"Numeric"
+		},
+		{
+			"Name":"77",
+			"Type":"Numeric"
 		}
 	],
 	"Edges":
