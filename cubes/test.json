@@ -13,5 +13,8 @@
 			"@id":"Dimensions('plan_lines')"
 		}
 	],
-	"Views@Code.links":[]
+	"Views@Code.links":
+	[
+		"test.views/Просмотр1.json"
+	]
 }
