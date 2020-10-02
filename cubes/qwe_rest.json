@@ -1,16 +1,13 @@
 {
 	"@type":"Cube",
-	"Name":"test",
+	"Name":"qwe_rest",
 	"Dimensions":
 	[
-		{
-			"@id":"Dimensions('plan_format_template')"
-		},
 		{
 			"@id":"Dimensions('plan_exchange_rates')"
 		},
 		{
-			"@id":"Dimensions('plan_lines')"
+			"@id":"Dimensions('plan_format_template')"
 		}
 	],
 	"Views@Code.links":[]
