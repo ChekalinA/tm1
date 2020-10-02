@@ -1,0 +1,14 @@
+{
+	"@type":"Cube",
+	"Name":"asd",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('SM Entries')"
+		},
+		{
+			"@id":"Dimensions('SM Reviews')"
+		}
+	],
+	"Views@Code.links":[]
+}

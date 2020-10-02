@@ -15,6 +15,8 @@
 	],
 	"Views@Code.links":
 	[
+		"TestRest.views/10млн.json",
+		"TestRest.views/11.json",
 		"TestRest.views/1mln.json",
 		"TestRest.views/cons.json",
 		"TestRest.views/View_TestRest.json"
