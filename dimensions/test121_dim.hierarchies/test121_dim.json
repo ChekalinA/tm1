@@ -1,0 +1,12 @@
+{
+	"@type":"Hierarchy",
+	"Name":"test121_dim",
+	"Elements":
+	[
+		{
+			"Name":"rar",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}
