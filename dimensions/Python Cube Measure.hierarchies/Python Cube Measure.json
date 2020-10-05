@@ -1,0 +1,12 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Python Cube Measure",
+	"Elements":
+	[
+		{
+			"Name":"Numeric Element",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}

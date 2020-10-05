@@ -1,0 +1,22 @@
+{
+	"@type":"Cube",
+	"Name":"TestRest",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('TestRest1')"
+		},
+		{
+			"@id":"Dimensions('TestRest2')"
+		},
+		{
+			"@id":"Dimensions('TestRest3')"
+		}
+	],
+	"Views@Code.links":
+	[
+		"TestRest.views/1mln.json",
+		"TestRest.views/cons.json",
+		"TestRest.views/View_TestRest.json"
+	]
+}
