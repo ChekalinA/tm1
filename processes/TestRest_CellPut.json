@@ -1,0 +1,37 @@
+{
+	"@type":"Process",
+	"Name":"TestRest_CellPut",
+	"Code@Code.link":"TestRest_CellPut.ti",
+	"DataSource":
+	{
+		"Type":"TM1CubeView",
+		"dataSourceNameForClient":"TestRest",
+		"dataSourceNameForServer":"TestRest",
+		"view":"11"
+	},
+	"Parameters":[],
+	"Variables":
+	[
+		{
+			"Name":"V1",
+			"Type":"String",
+			"Position":1,
+			"StartByte":0,
+			"EndByte":0
+		},
+		{
+			"Name":"V2",
+			"Type":"String",
+			"Position":2,
+			"StartByte":0,
+			"EndByte":0
+		},
+		{
+			"Name":"V3",
+			"Type":"String",
+			"Position":3,
+			"StartByte":0,
+			"EndByte":0
+		}
+	]
+}
