@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"test123_dim",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('test123_dim')/Hierarchies('test123_dim')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"test123_dim.hierarchies/test123_dim.json"
+	]
+}

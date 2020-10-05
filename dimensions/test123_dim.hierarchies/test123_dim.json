@@ -1,0 +1,12 @@
+{
+	"@type":"Hierarchy",
+	"Name":"test123_dim",
+	"Elements":
+	[
+		{
+			"Name":"tst",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}
