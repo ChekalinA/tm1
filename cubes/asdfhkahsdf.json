@@ -1,0 +1,23 @@
+{
+	"@type":"Cube",
+	"Name":"asdfhkahsdf",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('plan_currency')"
+		},
+		{
+			"@id":"Dimensions('plan_department')"
+		},
+		{
+			"@id":"Dimensions('plan_exchange_rates')"
+		},
+		{
+			"@id":"Dimensions('plan_format_template')"
+		},
+		{
+			"@id":"Dimensions('plan_lines')"
+		}
+	],
+	"Views@Code.links":[]
+}
