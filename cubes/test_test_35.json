@@ -1,0 +1,29 @@
+{
+	"@type":"Cube",
+	"Name":"test_test_35",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('test')"
+		},
+		{
+			"@id":"Dimensions('test10')"
+		},
+		{
+			"@id":"Dimensions('test123_dim')"
+		},
+		{
+			"@id":"Dimensions('test2')"
+		},
+		{
+			"@id":"Dimensions('TestRest1')"
+		},
+		{
+			"@id":"Dimensions('TestRest2')"
+		},
+		{
+			"@id":"Dimensions('TestRest3')"
+		}
+	],
+	"Views@Code.links":[]
+}
