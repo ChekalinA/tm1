@@ -1,0 +1,20 @@
+{
+	"@type":"Hierarchy",
+	"Name":"test",
+	"Elements":
+	[
+		{
+			"Name":"JPY",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EUR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"USD",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}
