@@ -1,6 +1,6 @@
 {
 	"@type":"Cube",
-	"Name":"asdfhkahsdf",
+	"Name":"test123",
 	"Dimensions":
 	[
 		{
@@ -11,12 +11,6 @@
 		},
 		{
 			"@id":"Dimensions('plan_exchange_rates')"
-		},
-		{
-			"@id":"Dimensions('plan_format_template')"
-		},
-		{
-			"@id":"Dimensions('plan_lines')"
 		}
 	],
 	"Views@Code.links":[]
