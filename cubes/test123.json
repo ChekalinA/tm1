@@ -1,0 +1,17 @@
+{
+	"@type":"Cube",
+	"Name":"test123",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('plan_currency')"
+		},
+		{
+			"@id":"Dimensions('plan_department')"
+		},
+		{
+			"@id":"Dimensions('plan_exchange_rates')"
+		}
+	],
+	"Views@Code.links":[]
+}
