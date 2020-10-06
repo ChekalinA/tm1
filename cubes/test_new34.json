@@ -1,0 +1,20 @@
+{
+	"@type":"Cube",
+	"Name":"test_new34",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('JobType')"
+		},
+		{
+			"@id":"Dimensions('JobTypeAssumption')"
+		},
+		{
+			"@id":"Dimensions('LineItem_PickList')"
+		},
+		{
+			"@id":"Dimensions('LineItemDetail')"
+		}
+	],
+	"Views@Code.links":[]
+}

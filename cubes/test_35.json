@@ -1,0 +1,20 @@
+{
+	"@type":"Cube",
+	"Name":"test_35",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('plan_exchange_rates')"
+		},
+		{
+			"@id":"Dimensions('plan_format_template')"
+		},
+		{
+			"@id":"Dimensions('plan_lines')"
+		},
+		{
+			"@id":"Dimensions('plan_measure_setting')"
+		}
+	],
+	"Views@Code.links":[]
+}

@@ -1,0 +1,20 @@
+{
+	"@type":"Cube",
+	"Name":"test_new_1",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('plan_business_unit')"
+		},
+		{
+			"@id":"Dimensions('plan_currency')"
+		},
+		{
+			"@id":"Dimensions('plan_department')"
+		},
+		{
+			"@id":"Dimensions('ProductSubset_PickList')"
+		}
+	],
+	"Views@Code.links":[]
+}
