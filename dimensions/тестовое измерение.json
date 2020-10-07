@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"тестовое измерение",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('тестовое измерение')/Hierarchies('тестовое измерение')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"тестовое измерение.hierarchies/тестовое измерение.json"
+	]
+}
