@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"asap_test",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('asap_test')/Hierarchies('asap_test')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"asap_test.hierarchies/asap_test.json"
+	]
+}
