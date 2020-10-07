@@ -1,0 +1,17 @@
+{
+	"@type":"Cube",
+	"Name":"asap_cube",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('Exchange Rate')"
+		},
+		{
+			"@id":"Dimensions('Exchange Rate Type')"
+		},
+		{
+			"@id":"Dimensions('asap_test')"
+		}
+	],
+	"Views@Code.links":[]
+}
