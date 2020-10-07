@@ -1,0 +1,17 @@
+{
+	"@type":"Cube",
+	"Name":"тестовый куб №12",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('тестовое измерение')"
+		},
+		{
+			"@id":"Dimensions('Workflow Info')"
+		},
+		{
+			"@id":"Dimensions('Year')"
+		}
+	],
+	"Views@Code.links":[]
+}
