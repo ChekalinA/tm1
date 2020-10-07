@@ -6,14 +6,7 @@
 		{
 			"Name":"400",
 			"Type":"Numeric"
-		},
-		{
-			"Name":"test",
-			"Type":"Numeric"
 		}
 	],
-	"Subsets@Code.links":
-	[
-		"qwer.subsets/Test.json"
-	]
+	"Subsets@Code.links":[]
 }
