@@ -1,0 +1,20 @@
+{
+	"@type":"Cube",
+	"Name":"cvbncfghdfghdfghdfgh dfgh",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('Version')"
+		},
+		{
+			"@id":"Dimensions('Version Copy Measures')"
+		},
+		{
+			"@id":"Dimensions('Version Reporting')"
+		},
+		{
+			"@id":"Dimensions('Version Subset Measures')"
+		}
+	],
+	"Views@Code.links":[]
+}

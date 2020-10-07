@@ -1,0 +1,260 @@
+{
+	"@type":"Cube",
+	"Name":"asdfadfasdfasdfasdf",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('Allocation Source Definition')"
+		},
+		{
+			"@id":"Dimensions('asdfasfasdfasdf')"
+		},
+		{
+			"@id":"Dimensions('Asset Life')"
+		},
+		{
+			"@id":"Dimensions('Asset Types')"
+		},
+		{
+			"@id":"Dimensions('Benefit')"
+		},
+		{
+			"@id":"Dimensions('BI Measure')"
+		},
+		{
+			"@id":"Dimensions('Big Dimension')"
+		},
+		{
+			"@id":"Dimensions('Calendar')"
+		},
+		{
+			"@id":"Dimensions('Capital')"
+		},
+		{
+			"@id":"Dimensions('CapitalList')"
+		},
+		{
+			"@id":"Dimensions('Channel')"
+		},
+		{
+			"@id":"Dimensions('Compensation')"
+		},
+		{
+			"@id":"Dimensions('Currency')"
+		},
+		{
+			"@id":"Dimensions('Currency Calc')"
+		},
+		{
+			"@id":"Dimensions('Depreciation')"
+		},
+		{
+			"@id":"Dimensions('Employee')"
+		},
+		{
+			"@id":"Dimensions('Employee Name')"
+		},
+		{
+			"@id":"Dimensions('EmployeeList')"
+		},
+		{
+			"@id":"Dimensions('Exchange Rate')"
+		},
+		{
+			"@id":"Dimensions('Exchange Rate Type')"
+		},
+		{
+			"@id":"Dimensions('ExternalFactors')"
+		},
+		{
+			"@id":"Dimensions('FcstMethod')"
+		},
+		{
+			"@id":"Dimensions('jobcode')"
+		},
+		{
+			"@id":"Dimensions('JobCodeAsmpt')"
+		},
+		{
+			"@id":"Dimensions('JobType')"
+		},
+		{
+			"@id":"Dimensions('JobTypeAssumption')"
+		},
+		{
+			"@id":"Dimensions('LineItem_PickList')"
+		},
+		{
+			"@id":"Dimensions('LineItemDetail')"
+		},
+		{
+			"@id":"Dimensions('LineItemList')"
+		},
+		{
+			"@id":"Dimensions('Metrics')"
+		},
+		{
+			"@id":"Dimensions('Metrics Indicators')"
+		},
+		{
+			"@id":"Dimensions('Month')"
+		},
+		{
+			"@id":"Dimensions('Month Reporting')"
+		},
+		{
+			"@id":"Dimensions('MonthMap')"
+		},
+		{
+			"@id":"Dimensions('Numbered List')"
+		},
+		{
+			"@id":"Dimensions('OpExSubset_Picklist')"
+		},
+		{
+			"@id":"Dimensions('organization')"
+		},
+		{
+			"@id":"Dimensions('Organization Reporting')"
+		},
+		{
+			"@id":"Dimensions('PhasedCosts')"
+		},
+		{
+			"@id":"Dimensions('plan_business_unit')"
+		},
+		{
+			"@id":"Dimensions('plan_chart_of_accounts')"
+		},
+		{
+			"@id":"Dimensions('plan_controls')"
+		},
+		{
+			"@id":"Dimensions('plan_currency')"
+		},
+		{
+			"@id":"Dimensions('plan_department')"
+		},
+		{
+			"@id":"Dimensions('plan_exchange_rates')"
+		},
+		{
+			"@id":"Dimensions('plan_format_template')"
+		},
+		{
+			"@id":"Dimensions('plan_lines')"
+		},
+		{
+			"@id":"Dimensions('plan_measure_setting')"
+		},
+		{
+			"@id":"Dimensions('plan_source')"
+		},
+		{
+			"@id":"Dimensions('plan_time')"
+		},
+		{
+			"@id":"Dimensions('plan_version')"
+		},
+		{
+			"@id":"Dimensions('Plant')"
+		},
+		{
+			"@id":"Dimensions('product')"
+		},
+		{
+			"@id":"Dimensions('ProductSubset_PickList')"
+		},
+		{
+			"@id":"Dimensions('Python Cube Measure')"
+		},
+		{
+			"@id":"Dimensions('qwer')"
+		},
+		{
+			"@id":"Dimensions('Rate Measure')"
+		},
+		{
+			"@id":"Dimensions('Relative Time')"
+		},
+		{
+			"@id":"Dimensions('Revenue')"
+		},
+		{
+			"@id":"Dimensions('RevenueAsmpt')"
+		},
+		{
+			"@id":"Dimensions('sdfasdf')"
+		},
+		{
+			"@id":"Dimensions('SM Entries')"
+		},
+		{
+			"@id":"Dimensions('SM Reviews')"
+		},
+		{
+			"@id":"Dimensions('Spread Methods')"
+		},
+		{
+			"@id":"Dimensions('String')"
+		},
+		{
+			"@id":"Dimensions('Supply Chain Measures')"
+		},
+		{
+			"@id":"Dimensions('Task')"
+		},
+		{
+			"@id":"Dimensions('Task Workflow Measure')"
+		},
+		{
+			"@id":"Dimensions('test')"
+		},
+		{
+			"@id":"Dimensions('test10')"
+		},
+		{
+			"@id":"Dimensions('test123_dim')"
+		},
+		{
+			"@id":"Dimensions('test2')"
+		},
+		{
+			"@id":"Dimensions('TestRest1')"
+		},
+		{
+			"@id":"Dimensions('TestRest2')"
+		},
+		{
+			"@id":"Dimensions('TestRest3')"
+		},
+		{
+			"@id":"Dimensions('TrxID')"
+		},
+		{
+			"@id":"Dimensions('TrxMeasures')"
+		},
+		{
+			"@id":"Dimensions('Version')"
+		},
+		{
+			"@id":"Dimensions('Version Copy Measures')"
+		},
+		{
+			"@id":"Dimensions('Version Reporting')"
+		},
+		{
+			"@id":"Dimensions('Version Subset Measures')"
+		},
+		{
+			"@id":"Dimensions('Version Subsets')"
+		},
+		{
+			"@id":"Dimensions('Workflow Info')"
+		},
+		{
+			"@id":"Dimensions('Year')"
+		}
+	],
+	"Views@Code.links":[]
+}

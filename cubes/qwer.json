@@ -1,0 +1,17 @@
+{
+	"@type":"Cube",
+	"Name":"qwer",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('qwer')"
+		},
+		{
+			"@id":"Dimensions('Rate Measure')"
+		},
+		{
+			"@id":"Dimensions('Relative Time')"
+		}
+	],
+	"Views@Code.links":[]
+}

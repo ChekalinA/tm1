@@ -1,0 +1,12 @@
+{
+	"@type":"Hierarchy",
+	"Name":"sdfasdf",
+	"Elements":
+	[
+		{
+			"Name":"400",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}

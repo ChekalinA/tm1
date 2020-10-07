@@ -1,0 +1,32 @@
+{
+	"@type":"Cube",
+	"Name":"asdf112",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('TestRest2')"
+		},
+		{
+			"@id":"Dimensions('TestRest3')"
+		},
+		{
+			"@id":"Dimensions('TrxID')"
+		},
+		{
+			"@id":"Dimensions('TrxMeasures')"
+		},
+		{
+			"@id":"Dimensions('Version')"
+		},
+		{
+			"@id":"Dimensions('Version Copy Measures')"
+		},
+		{
+			"@id":"Dimensions('Version Reporting')"
+		},
+		{
+			"@id":"Dimensions('Version Subset Measures')"
+		}
+	],
+	"Views@Code.links":[]
+}
