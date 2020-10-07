@@ -1,0 +1,17 @@
+{
+	"@type":"Cube",
+	"Name":"qwer12",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('CapitalList')"
+		},
+		{
+			"@id":"Dimensions('Channel')"
+		},
+		{
+			"@id":"Dimensions('Compensation')"
+		}
+	],
+	"Views@Code.links":[]
+}

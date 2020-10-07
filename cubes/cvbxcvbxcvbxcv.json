@@ -1,0 +1,23 @@
+{
+	"@type":"Cube",
+	"Name":"cvbxcvbxcvbxcv",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('TestRest2')"
+		},
+		{
+			"@id":"Dimensions('TestRest3')"
+		},
+		{
+			"@id":"Dimensions('TrxID')"
+		},
+		{
+			"@id":"Dimensions('TrxMeasures')"
+		},
+		{
+			"@id":"Dimensions('Version')"
+		}
+	],
+	"Views@Code.links":[]
+}

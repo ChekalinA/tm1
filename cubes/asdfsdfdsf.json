@@ -1,0 +1,20 @@
+{
+	"@type":"Cube",
+	"Name":"asdfsdfdsf",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('plan_measure_setting')"
+		},
+		{
+			"@id":"Dimensions('plan_source')"
+		},
+		{
+			"@id":"Dimensions('plan_time')"
+		},
+		{
+			"@id":"Dimensions('plan_version')"
+		}
+	],
+	"Views@Code.links":[]
+}
