@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Test",
+	"Expression":"TM1SubsetAll([qwer])"
+}
