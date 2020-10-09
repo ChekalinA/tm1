@@ -91,9 +91,6 @@
 						"@id":"Dimensions('plan_exchange_rates')/Hierarchies('plan_exchange_rates')/Elements('planning')"
 					},
 					{
-						"@id":"Dimensions('plan_exchange_rates')/Hierarchies('plan_exchange_rates')/Elements('spot')"
-					},
-					{
 						"@id":"Dimensions('plan_exchange_rates')/Hierarchies('plan_exchange_rates')/Elements('actual')"
 					}
 				]
