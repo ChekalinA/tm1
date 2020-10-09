@@ -1,0 +1,20 @@
+{
+	"@type":"Cube",
+	"Name":"test_ui_21",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('Numbered List')"
+		},
+		{
+			"@id":"Dimensions('OpExSubset_Picklist')"
+		},
+		{
+			"@id":"Dimensions('organization')"
+		},
+		{
+			"@id":"Dimensions('Organization Reporting')"
+		}
+	],
+	"Views@Code.links":[]
+}
