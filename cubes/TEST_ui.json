@@ -1,0 +1,17 @@
+{
+	"@type":"Cube",
+	"Name":"TEST_ui",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('TestRest2')"
+		},
+		{
+			"@id":"Dimensions('TestRest3')"
+		},
+		{
+			"@id":"Dimensions('TrxID')"
+		}
+	],
+	"Views@Code.links":[]
+}
