@@ -20,15 +20,7 @@
 			"Type":"Numeric"
 		},
 		{
-			"Name":"spot",
-			"Type":"Numeric"
-		},
-		{
 			"Name":"actual",
-			"Type":"Numeric"
-		},
-		{
-			"Name":"77",
 			"Type":"Numeric"
 		}
 	],
