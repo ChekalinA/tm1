@@ -2,6 +2,7 @@
 	"@type":"Chore",
 	"Name":"Reset_Demo_FOPMImage",
 	"StartTime":"2015-11-18T23:29:15Z",
+	"DSTSensitive":false,
 	"ExecutionMode":"SingleCommit",
 	"Frequency":"P1DT00H00M00S",
 	"Tasks":

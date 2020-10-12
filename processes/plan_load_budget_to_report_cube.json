@@ -1,6 +1,7 @@
 {
 	"@type":"Process",
 	"Name":"plan_load_budget_to_report_cube",
+	"HasSecurityAccess":false,
 	"Code@Code.link":"plan_load_budget_to_report_cube.ti",
 	"DataSource":
 	{

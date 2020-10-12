@@ -1,6 +1,7 @@
 {
 	"@type":"Process",
 	"Name":"TestRest_CellPut",
+	"HasSecurityAccess":false,
 	"Code@Code.link":"TestRest_CellPut.ti",
 	"DataSource":
 	{

@@ -1,6 +1,7 @@
 {
 	"@type":"Process",
 	"Name":"plan_load_exchange_rate_odbc",
+	"HasSecurityAccess":false,
 	"Code@Code.link":"plan_load_exchange_rate_odbc.ti",
 	"DataSource":
 	{

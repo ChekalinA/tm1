@@ -1,7 +1,22 @@
 {
 	"@type":"Process",
 	"Name":"Load_PYActuals",
+	"HasSecurityAccess":false,
 	"Code@Code.link":"Load_PYActuals.ti",
+	"UIData":"CubeAction=1500ЂDataAction=1503ЂCubeName=Income StatementЂCubeLogChanges=0Ђ",
+	"VariablesUIData":
+	[
+		"VarType=32ЂColType=825ЂVarDimension=Currency CalcЂVarDimAction=As IsЂVarElemType=NumericЂVarDimElemSortType=BYINPUTЂVarDimElemSortSense=ASCENDINGЂ",
+		"VarType=32ЂColType=825ЂVarDimension=organizationЂVarDimAction=As IsЂVarElemType=NumericЂVarDimElemSortType=BYINPUTЂVarDimElemSortSense=ASCENDINGЂ",
+		"VarType=32ЂColType=827Ђ",
+		"VarType=32ЂColType=825ЂVarDimension=MonthЂVarDimAction=As IsЂVarElemType=NumericЂVarDimElemSortType=BYINPUTЂVarDimElemSortSense=ASCENDINGЂ",
+		"VarType=32ЂColType=825ЂVarDimension=AccountЂVarDimAction=As IsЂVarElemType=NumericЂVarDimElemSortType=BYINPUTЂVarDimElemSortSense=ASCENDINGЂ",
+		"VarType=32ЂColType=827Ђ",
+		"VarType=33ЂColType=827Ђ",
+		"VarName=tVersionЂVarType=32ЂColType=825ЂVarFormula=tVersion='Actual';:ЂVarFormulaDestination=BOTHЂVarDimension=VersionЂVarDimAction=As IsЂVarElemType=NumericЂVarDimElemSortType=BYINPUTЂVarDimElemSortSense=ASCENDINGЂ",
+		"VarName=vValueЂVarType=33ЂColType=826ЂVarFormula=vValue=IF(Account@='6600',value,:IF(Account@='6610',value,:value*(.97+RAND*(.06))));:ЂVarFormulaDestination=BOTHЂ",
+		"VarName=vYr2011ЂVarType=32ЂColType=825ЂVarFormula=vYr2011='Y1';:ЂVarFormulaDestination=BOTHЂVarDimension=YearЂVarDimAction=As IsЂVarElemType=NumericЂVarDimElemSortType=BYINPUTЂVarDimElemSortSense=ASCENDINGЂ"
+	],
 	"DataSource":
 	{
 		"Type":"TM1CubeView",

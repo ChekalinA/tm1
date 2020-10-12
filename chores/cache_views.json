@@ -2,6 +2,7 @@
 	"@type":"Chore",
 	"Name":"cache_views",
 	"StartTime":"2012-02-07T02:37:14Z",
+	"DSTSensitive":false,
 	"ExecutionMode":"SingleCommit",
 	"Frequency":"P0DT00H01M00S",
 	"Tasks":

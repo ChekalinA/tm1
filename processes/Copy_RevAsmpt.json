@@ -1,7 +1,20 @@
 {
 	"@type":"Process",
 	"Name":"Copy_RevAsmpt",
+	"HasSecurityAccess":true,
 	"Code@Code.link":"Copy_RevAsmpt.ti",
+	"UIData":"CubeAction=1500ЂDataAction=1503ЂCubeName=Revenue AssumptionsЂCubeLogChanges=0Ђ",
+	"VariablesUIData":
+	[
+		"VarType=32ЂColType=827Ђ",
+		"VarType=32ЂColType=825ЂVarDimension=ChannelЂVarDimAction=As IsЂVarElemType=NumericЂVarDimElemSortType=BYINPUTЂVarDimElemSortSense=ASCENDINGЂ",
+		"VarType=32ЂColType=825ЂVarDimension=MonthЂVarDimAction=As IsЂVarElemType=NumericЂVarDimElemSortType=BYINPUTЂVarDimElemSortSense=ASCENDINGЂ",
+		"VarType=32ЂColType=825ЂVarDimension=YearЂVarDimAction=As IsЂVarElemType=NumericЂVarDimElemSortType=BYINPUTЂVarDimElemSortSense=ASCENDINGЂ",
+		"VarType=32ЂColType=825ЂVarDimension=VersionЂVarDimAction=As IsЂVarElemType=NumericЂVarDimElemSortType=BYINPUTЂVarDimElemSortSense=ASCENDINGЂ",
+		"VarType=32ЂColType=825ЂVarDimension=RevenueAsmptЂVarDimAction=As IsЂVarElemType=NumericЂVarDimElemSortType=BYINPUTЂVarDimElemSortSense=ASCENDINGЂ",
+		"VarType=33ЂColType=826Ђ",
+		"VarName=vTargetЂVarType=32ЂColType=825ЂVarFormula=vTarget=pNewNumber;:ЂVarFormulaDestination=BOTHЂVarDimension=productЂVarDimAction=As IsЂVarElemType=NumericЂVarDimElemSortType=BYINPUTЂVarDimElemSortSense=ASCENDINGЂ"
+	],
 	"DataSource":
 	{
 		"Type":"TM1CubeView",

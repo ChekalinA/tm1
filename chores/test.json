@@ -2,6 +2,7 @@
 	"@type":"Chore",
 	"Name":"test",
 	"StartTime":"2020-10-07T10:57:40Z",
+	"DSTSensitive":false,
 	"ExecutionMode":"SingleCommit",
 	"Frequency":"P10DT00H00M00S",
 	"Tasks":

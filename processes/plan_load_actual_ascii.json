@@ -1,6 +1,7 @@
 {
 	"@type":"Process",
 	"Name":"plan_load_actual_ascii",
+	"HasSecurityAccess":false,
 	"Code@Code.link":"plan_load_actual_ascii.ti",
 	"DataSource":
 	{

@@ -1,6 +1,7 @@
 {
 	"@type":"Process",
 	"Name":"mover",
+	"HasSecurityAccess":false,
 	"Code@Code.link":"mover.ti",
 	"DataSource":
 	{

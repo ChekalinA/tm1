@@ -1,7 +1,9 @@
 {
 	"@type":"Process",
 	"Name":"Update_NewProduct_Fcst",
+	"HasSecurityAccess":true,
 	"Code@Code.link":"Update_NewProduct_Fcst.ti",
+	"UIData":"CubeAction=1511ЂDataAction=1503ЂCubeLogChanges=0Ђ",
 	"DataSource":
 	{
 		"Type":"None"
