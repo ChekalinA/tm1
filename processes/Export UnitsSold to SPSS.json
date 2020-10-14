@@ -3,18 +3,6 @@
 	"Name":"Export UnitsSold to SPSS",
 	"HasSecurityAccess":false,
 	"Code@Code.link":"Export UnitsSold to SPSS.ti",
-	"UIData":"CubeAction=1511ЂDataAction=1503ЂCubeLogChanges=0Ђ",
-	"VariablesUIData":
-	[
-		"VarType=32ЂColType=827Ђ",
-		"VarType=32ЂColType=827Ђ",
-		"VarType=32ЂColType=827Ђ",
-		"VarType=32ЂColType=827Ђ",
-		"VarType=32ЂColType=827Ђ",
-		"VarType=32ЂColType=827Ђ",
-		"VarType=32ЂColType=827Ђ",
-		"VarType=33ЂColType=827Ђ"
-	],
 	"DataSource":
 	{
 		"Type":"TM1CubeView",

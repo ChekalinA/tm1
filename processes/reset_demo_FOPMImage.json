@@ -3,7 +3,6 @@
 	"Name":"reset_demo_FOPMImage",
 	"HasSecurityAccess":false,
 	"Code@Code.link":"reset_demo_FOPMImage.ti",
-	"UIData":"CubeAction=1511ЂDataAction=1503ЂCubeLogChanges=0Ђ",
 	"DataSource":
 	{
 		"Type":"None"
