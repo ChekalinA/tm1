@@ -1,13 +1,8 @@
 {
 	"@type":"Process",
 	"Name":"Set_Security_Version",
-	"HasSecurityAccess":true,
+	"HasSecurityAccess":false,
 	"Code@Code.link":"Set_Security_Version.ti",
-	"UIData":"CubeAction=1511ЂDataAction=1503ЂCubeLogChanges=0Ђ",
-	"VariablesUIData":
-	[
-		"VarType=32ЂColType=827Ђ"
-	],
 	"DataSource":
 	{
 		"Type":"TM1DimensionSubset",

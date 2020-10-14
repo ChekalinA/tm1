@@ -1,9 +1,8 @@
 {
 	"@type":"Process",
 	"Name":"Complete_Target",
-	"HasSecurityAccess":true,
+	"HasSecurityAccess":false,
 	"Code@Code.link":"Complete_Target.ti",
-	"UIData":"CubeAction=1511ЂDataAction=1503ЂCubeLogChanges=0Ђ",
 	"DataSource":
 	{
 		"Type":"None"
