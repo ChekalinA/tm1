@@ -3,14 +3,6 @@
 	"Name":"Load Workflow Info",
 	"HasSecurityAccess":false,
 	"Code@Code.link":"Load Workflow Info.ti",
-	"UIData":"CubeAction=1500ЂDataAction=1503ЂCubeName=Workflow ReportingЂCubeLogChanges=0Ђ",
-	"VariablesUIData":
-	[
-		"VarType=32ЂColType=825ЂVarDimension=organizationЂVarDimAction=As IsЂVarElemType=NumericЂVarDimElemSortType=BYINPUTЂVarDimElemSortSense=ASCENDINGЂ",
-		"VarType=32ЂColType=825ЂVarDimension=Workflow InfoЂVarDimAction=As IsЂVarElemType=NumericЂVarDimElemSortType=BYINPUTЂVarDimElemSortSense=ASCENDINGЂ",
-		"VarType=32ЂColType=826Ђ",
-		"VarName=V4ЂVarType=32ЂColType=825ЂVarFormula=V4='1';:ЂVarFormulaDestination=BOTHЂVarDimension=BI MeasureЂVarDimAction=As IsЂVarElemType=NumericЂVarDimElemSortType=BYINPUTЂVarDimElemSortSense=ASCENDINGЂ"
-	],
 	"DataSource":
 	{
 		"Type":"TM1CubeView",
