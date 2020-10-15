@@ -3,7 +3,6 @@
 	"Name":"caption_LineItemDetail_localization",
 	"HasSecurityAccess":false,
 	"Code@Code.link":"caption_LineItemDetail_localization.ti",
-	"UIData":"CubeAction=1511ЂDataAction=1503ЂCubeLogChanges=0Ђ",
 	"DataSource":
 	{
 		"Type":"None"
