@@ -1,9 +1,8 @@
 {
 	"@type":"Process",
 	"Name":"Copy_TargetSet_Version",
-	"HasSecurityAccess":true,
+	"HasSecurityAccess":false,
 	"Code@Code.link":"Copy_TargetSet_Version.ti",
-	"UIData":"CubeAction=1511ЂDataAction=1503ЂCubeLogChanges=0Ђ",
 	"DataSource":
 	{
 		"Type":"None"
