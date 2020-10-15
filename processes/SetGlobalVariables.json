@@ -3,7 +3,6 @@
 	"Name":"SetGlobalVariables",
 	"HasSecurityAccess":false,
 	"Code@Code.link":"SetGlobalVariables.ti",
-	"UIData":"CubeAction=1511ЂDataAction=1503ЂCubeLogChanges=0Ђ",
 	"DataSource":
 	{
 		"Type":"None"

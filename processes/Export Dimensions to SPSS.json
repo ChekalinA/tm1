@@ -3,7 +3,6 @@
 	"Name":"Export Dimensions to SPSS",
 	"HasSecurityAccess":false,
 	"Code@Code.link":"Export Dimensions to SPSS.ti",
-	"UIData":"CubeAction=1511ЂDataAction=1503ЂCubeLogChanges=0Ђ",
 	"DataSource":
 	{
 		"Type":"None"

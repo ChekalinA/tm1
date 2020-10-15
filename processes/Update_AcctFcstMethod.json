@@ -1,15 +1,8 @@
 {
 	"@type":"Process",
 	"Name":"Update_AcctFcstMethod",
-	"HasSecurityAccess":true,
+	"HasSecurityAccess":false,
 	"Code@Code.link":"Update_AcctFcstMethod.ti",
-	"UIData":"CubeAction=1500ЂDataAction=1503ЂCubeName=}ElementAttributes_AccountЂCubeLogChanges=0Ђ",
-	"VariablesUIData":
-	[
-		"VarType=32ЂColType=825ЂVarDimension=AccountЂVarDimAction=As IsЂVarElemType=NumericЂVarDimElemSortType=BYINPUTЂVarDimElemSortSense=ASCENDINGЂ",
-		"VarType=32ЂColType=825ЂVarDimension=}ElementAttributes_AccountЂVarDimAction=As IsЂVarElemType=NumericЂVarDimElemSortType=BYINPUTЂVarDimElemSortSense=ASCENDINGЂ",
-		"VarType=32ЂColType=826Ђ"
-	],
 	"DataSource":
 	{
 		"Type":"TM1CubeView",
